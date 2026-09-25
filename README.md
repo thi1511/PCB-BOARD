@@ -95,7 +95,7 @@ PCB được thiết kế bằng **KiCad**.
 
 Sơ đồ nguyên lý của board:
 
-![Schematic](chematic.png)
+![Schematic](schematic.png)
 
 ---
 
